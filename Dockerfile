@@ -29,4 +29,3 @@ VOLUME /home/developer/orbit
 WORKDIR /home/developer/orbit
 
 ENTRYPOINT [ "/orbit" ]
-CMD [ "help" ]
